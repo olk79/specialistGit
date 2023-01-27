@@ -1,0 +1,4 @@
+#ignore bak files
+*.bak  
+# ignore bin folder
+bin/*
